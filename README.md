@@ -8,4 +8,4 @@ relapse. Studies examining the effect of different treatments on subpopulations 
 cell lines are limited. Having previously demonstrated that combined treatment with an
 enhancer of zeste homolog 2 inhibitor (EZH2i) and a RAC1 GTPase inhibitor (RAC1i) inhibited
 survival of OCSCs, we investigated EZH2i and RAC1i combination effects on HGSOC
-heterogeneity using single cell RNA sequencing.
+heterogeneity using single cell RNA sequencing. 
