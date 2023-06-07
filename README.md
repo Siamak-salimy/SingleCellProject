@@ -1,6 +1,6 @@
 # SingleCellProject
 Ovarian cancer (OC) is a lethal gynecological malignancy with a five-year survival rate of
-only 46%. Development of resistance to platinum-based chemotherapy is a common cause
+only 46%. Development of resistance to platinum-based chemotherapy is a common cause 
 of high mortality rates among OC patients. Tumor and transcriptomic heterogeneity are drivers
 of platinum resistance in OC. Platinum-based chemotherapy enriches for ovarian cancer
 stem cells (OCSCs) that are chemoresistant and contribute to disease recurrence and
